@@ -1,0 +1,14 @@
+Census
+--------------------------
+Precision: 79.51% - Naive Bayes (Label_Encoder + One_Hot_Encoder + Escalonamento)
+Precision: 79.53% - Naive Bayes (Label_Encoder)
+Precision: 79.51% - Naive Bayes (Label_Encoder + One_Hot_Encoder)
+Precision: 78.89% - Naive Bayes (Label_Encoder + Escalonamento)
+    
+    
+Precision: 81.11% - Decision Tree (Label_Encoder + One_Hot_Encoder + Escalonamento)
+Precision: 80.82% - Decision Tree (Label_Encoder)
+Precision: 81.06% - Decision Tree (Label_Encoder + One_Hot_Encoder)
+Precision: 80.31% - Decision Tree (Label_Encoder + Escalonamento)
+
+

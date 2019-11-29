@@ -2,3 +2,8 @@ Credit Data
 --------------------------
 0.9379 - Naive Bayes (incosistentes + faltantes + escalonamento)
 0.9819 - Decision Tree (incosistentes + faltantes + escalonamento)
+
+Precision: 97.2% - Random Forest (10 trees)
+Precision: 98.2% - Random Forest (20 trees)
+Precision: 98.0% - Random Forest (30 trees)
+Precision: 98.4% - Random Forest (40 trees)
