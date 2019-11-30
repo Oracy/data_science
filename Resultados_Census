@@ -1,5 +1,7 @@
 Census
 --------------------------
+75.60% - Base Line Classifier
+
 Precision: 79.51% - Naive Bayes (Label_Encoder + One_Hot_Encoder + Escalonamento)
 Precision: 79.53% - Naive Bayes (Label_Encoder)
 Precision: 79.51% - Naive Bayes (Label_Encoder + One_Hot_Encoder)
@@ -12,3 +14,7 @@ Precision: 81.06% - Decision Tree (Label_Encoder + One_Hot_Encoder)
 Precision: 80.31% - Decision Tree (Label_Encoder + Escalonamento)
 
 
+Precision: 84.20% - Random Forest (10 trees)
+Precision: 84.85% - Random Forest (20 trees)
+Precision: 85.05% - Random Forest (30 trees)
+Precision: 85.26% - Random Forest (40 trees)
