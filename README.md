@@ -52,5 +52,6 @@ SVM
 * [Census](./SVM/SVM_Census.ipynb)
 
 ---
+
 * [Results Credit Data](Results_Credit_Data)
 * [Results Census](Results_Census)
