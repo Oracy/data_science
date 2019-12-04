@@ -30,3 +30,9 @@ Precision: 84.95% - Logistic Regression (Label_Encoder + One_Hot_Encoder + Escal
 Precision: 79.10% - Logistic Regression (Label_Encoder)
 Precision: 79.55% - Logistic Regression (Label_Encoder + One_Hot_Encoder)
 Precision: 81.84% - Logistic Regression (Label_Encoder + Escalonamento)
+
+
+Precision: 85.08% - SVM Linear (Label_Encoder + One_Hot_Encoder + Escalonamento)
+? - SVM Linear (Label_Encoder)
+? - SVM Linear (Label_Encoder + One_Hot_Encoder)
+? - SVM Linear (Label_Encoder + Escalonamento)
