@@ -34,5 +34,23 @@ Rule Induction
 
 ---
 
+kNN
+* [Credit](./Knn/Knn_Credito.ipynb)
+* [Census](./kNN/Knn_Censo.ipynb)
+
+---
+
+Logistic Regression
+* [Census](./Logistic_Regression/Logistic_Regression_Census.ipynb)
+* [Credit](./Logistic_Regression/Logistic_Regression_Credit_Data.ipynb)
+* [Risco de Credito](./Logistic_Regression/Logistic_Regression_Risco_Credito.ipynb)
+
+---
+
+SVM
+* [Credit](./SVM/SVM_Credit_Data.ipynb)
+* [Census](./SVM/SVM_Census.ipynb)
+
+---
 * [Results Credit Data](Results_Credit_Data)
 * [Results Census](Results_Census)
