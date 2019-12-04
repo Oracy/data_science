@@ -24,3 +24,9 @@ Precision: 82.21% - kNN (Label_Encoder + One_Hot_Encoder + Escalonamento)
 Precision: 77.46% - kNN (Label_Encoder)
 Precision: 77.60% - kNN (Label_Encoder + One_Hot_Encoder)
 Precision: 82.19% - kNN (Label_Encoder + Escalonamento)
+
+
+Precision: 84.95% - Logistic Regression (Label_Encoder + One_Hot_Encoder + Escalonamento)
+Precision: 79.10% - Logistic Regression (Label_Encoder)
+Precision: 79.55% - Logistic Regression (Label_Encoder + One_Hot_Encoder)
+Precision: 81.84% - Logistic Regression (Label_Encoder + Escalonamento)

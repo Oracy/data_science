@@ -15,3 +15,5 @@ Precision: 98.4% - CN2 Learner
 Precision: 97.3% - CN2 Learner (Orange GUI)
 --------------------------
 0.9859 - Knn (incosistentes + faltantes + escalonamento)
+--------------------------
+0.9439 - Logistic Regression (incosistentes, escalonamento)
