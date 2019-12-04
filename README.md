@@ -29,26 +29,26 @@
 ### Rule Induction
 * [Base Line Classifier Census](./Rule_Induction/Base_Line_Classifier_Censo.ipynb)
 * [Base Line Classifier Credit](./Rule_Induction/Base_Line_Classifier_Credit.ipynb)
-* [CN2_Learner Credit](./Rule_Induction/CN2_Learner_Credit.ipynb)
-* [CN2_Learner Credit Risk](./Rule_Induction/CN2_Learner_Risco_de_Credito.ipynb)
+* [CN2 Learner Credit](./Rule_Induction/CN2_Learner_Credit.ipynb)
+* [CN2 Learner Credit Risk](./Rule_Induction/CN2_Learner_Risco_de_Credito.ipynb)
 
 ---
 
 ### kNN
-* [Credit](./Knn/Knn_Credito.ipynb)
+* [Credit Data](./Knn/Knn_Credito.ipynb)
 * [Census](./kNN/Knn_Censo.ipynb)
 
 ---
 
 ### Logistic Regression
 * [Census](./Logistic_Regression/Logistic_Regression_Census.ipynb)
-* [Credit](./Logistic_Regression/Logistic_Regression_Credit_Data.ipynb)
+* [Credit Data](./Logistic_Regression/Logistic_Regression_Credit_Data.ipynb)
 * [Credit Risk](./Logistic_Regression/Logistic_Regression_Risco_Credito.ipynb)
 
 ---
 
 ### SVM
-* [Credit](./SVM/SVM_Credit_Data.ipynb)
+* [Credit Data](./SVM/SVM_Credit_Data.ipynb)
 * [Census](./SVM/SVM_Census.ipynb)
 
 ---
