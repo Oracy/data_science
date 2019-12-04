@@ -1,21 +1,21 @@
 # Studies
 
 ### Data Analysis
-* [Análise Dataset Censo](./Naive_Bayes/Análise_Dataset_Censo.ipynb)
-* [Análise Dataset Risco de Crédito](./Naive_Bayes/Análise_Dataset_Crédito.ipynb)
+* [Dataset Census](./Naive_Bayes/Análise_Dataset_Censo.ipynb)
+* [Dataset Credit Risk](./Naive_Bayes/Análise_Dataset_Crédito.ipynb)
 
 ---
 
 ### Naive Bayes Algorithm
-* [Censo](./Naive_Bayes/Naive_Bayes_Censo.ipynb)
-* [Risco de Crédito](./Naive_Bayes/Naive_Bayes_Risco_de_Credito.ipynb)
+* [Census](./Naive_Bayes/Naive_Bayes_Censo.ipynb)
+* [Credit Risk](./Naive_Bayes/Naive_Bayes_Risco_de_Credito.ipynb)
 
 ---
 
 ### Decision Tree Algorithm
 * [Credit Data](./Decision_Tree/Decision_Tree_Credit_Data.ipynb)
-* [Risco de Crédito](./Decision_Tree/Decision_Tree_Risco_Credito.ipynb)
-* [Censo](./Decision_Tree/Decision_Tree_Census.ipynb)
+* [Credit Risk](./Decision_Tree/Decision_Tree_Risco_Credito.ipynb)
+* [Census](./Decision_Tree/Decision_Tree_Census.ipynb)
 
 ---
 
@@ -27,10 +27,10 @@
 ---
 
 ### Rule Induction
-* [Base Line Classifier Censo](./Rule_Induction/Base_Line_Classifier_Censo.ipynb)
+* [Base Line Classifier Census](./Rule_Induction/Base_Line_Classifier_Censo.ipynb)
 * [Base Line Classifier Credit](./Rule_Induction/Base_Line_Classifier_Credit.ipynb)
 * [CN2_Learner Credit](./Rule_Induction/CN2_Learner_Credit.ipynb)
-* [CN2_Learner Risco de Credito](./Rule_Induction/CN2_Learner_Risco_de_Credito.ipynb)
+* [CN2_Learner Credit Risk](./Rule_Induction/CN2_Learner_Risco_de_Credito.ipynb)
 
 ---
 
@@ -43,7 +43,7 @@
 ### Logistic Regression
 * [Census](./Logistic_Regression/Logistic_Regression_Census.ipynb)
 * [Credit](./Logistic_Regression/Logistic_Regression_Credit_Data.ipynb)
-* [Risco de Credito](./Logistic_Regression/Logistic_Regression_Risco_Credito.ipynb)
+* [Credit Risk](./Logistic_Regression/Logistic_Regression_Risco_Credito.ipynb)
 
 ---
 
